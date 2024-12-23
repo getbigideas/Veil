@@ -1,10 +1,10 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { Home } from "./pages/Home"
-import { Faqs } from "./pages/Faqs"
-import { Token } from "./pages/Token"
-import { RevenueShare } from "./pages/revenue-share"
-import { Layout } from "./pages/layout"
-import { Tos } from "./pages/Tos"
+import Faqs from "./pages/Faqs"
+import Token from "./pages/Token"
+import RevenueShare from "./pages/revenue-share"
+import Layout from "./pages/Layout"
+import Tos from "./pages/Tos"
 
 function App() {
   return (

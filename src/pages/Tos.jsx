@@ -1,4 +1,4 @@
-export function Tos() {
+export default function Tos() {
   return (
     <section className="flex flex-col bg-[#16161c] w-full items-center">
       <div className="bg-[#16161c] text-center w-[952px] pt-40">

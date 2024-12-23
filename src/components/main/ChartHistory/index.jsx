@@ -38,7 +38,7 @@ export default function ChartHistory() {
     datasets: [
       {
         label: "Monthly Revenue",
-        data: [0, 200000,  135000, 200000, 0,  400000, 200000],
+        data: [0, 200000,  135000, 200000, 100,  400000, 200000],
         borderColor: "#997404",
         backgroundColor: "#ffc107",
         borderRadius: 100,

@@ -76,7 +76,7 @@ export function Exchange() {
             width="24"
             height="24"
             viewBox="0 0 24 24"
-            className="mr-2"
+            className="mr-2 hover:motion-safe:animate-spin"
           >
             <g
               strokeLinecap="square"
